@@ -1,0 +1,6 @@
+partition	sha256	note
+boot.img	f0f90a5052b33de51942727550969b5962030a2e60f6a68f8baa4fbc79ca40e5	obtain from matching user-owned B4.1 firmware
+init_boot.img	ae95fcd4543d835aa4f762100f786ff0f91128d7b8fa43526499db043aa281e4	obtain from matching user-owned B4.1 firmware
+vendor_boot.img	1f3bc20ebe39f29e055244ed79e0a0126200ca2abfbe830ac7545159dd1ee8aa	obtain from matching user-owned B4.1 firmware
+vbmeta.img	4f7e4b882540793ca4a255f321b2465a349b477a56a13876cc3bb557d775db63	obtain from matching user-owned B4.1 firmware
+
